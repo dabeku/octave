@@ -1,4 +1,4 @@
-# This is a sample .m file2
+# This is a sample .m file
 
 # Everything after a '#' or a '%' is considered as a comment and not interpreted by the Octave interpreter
 
